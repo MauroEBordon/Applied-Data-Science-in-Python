@@ -1,2 +1,3 @@
 */.ipynb_checkpoints
-/.cph
+*/.cph
+*.gitignore
